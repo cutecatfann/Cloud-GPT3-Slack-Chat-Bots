@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+requests
+google-cloud-secret-manager
+google-crc32c
+openai
+google-cloud-datastore
